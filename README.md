@@ -22,4 +22,3 @@
 ## world screenshots
 ![screenshot1](https://github.com/planethouki/images/blob/master/tc-redstone/tc-redstone_001.jpg)
 ![screenshot2](https://github.com/planethouki/images/blob/master/tc-redstone/tc-redstone_002.jpg)
-![screenshot3](https://github.com/planethouki/images/blob/master/tc-redstone/tc-redstone_003.jpg)
